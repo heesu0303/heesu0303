@@ -13,4 +13,4 @@ I make steady efforts for **cooperation and growth!** 🙌
 <br>
 <br>
 ### 🔗 Connect me!
-<a href='https://velog.io/@heesu0303' target='_blank'><img src="https://img.shields.io/badge/hee_jjang.velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jheesu033@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;&nbsp;<a href="https://www.instagram.com/heesu.u/" target="_blank"><img src="https://img.shields.io/badge/heesu.u-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://velog.io/@heesu0303" target="_blank"><img src="https://img.shields.io/badge/hee_jjang.velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jheesu033@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;&nbsp;<a href="https://www.instagram.com/heesu.u/" target="_blank"><img src="https://img.shields.io/badge/heesu.u-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
