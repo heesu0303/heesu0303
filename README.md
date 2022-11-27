@@ -25,7 +25,7 @@
 <br>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesu0303&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesu0303&show_icons=true&theme=radical)
 <br>
 <br>
 <br>
