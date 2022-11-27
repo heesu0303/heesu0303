@@ -23,7 +23,6 @@
 <a href="https://velog.io/@heesu0303" target="_blank"><img src="https://img.shields.io/badge/hee_jjang.velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jheesu033@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;&nbsp;<a href="https://www.instagram.com/heesu.u/" target="_blank">
 <br>
 <br>
-#
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesu0303&show_icons=true&theme=radical)
